@@ -1,4 +1,6 @@
 # Scania-Truck-Failures
+## Technologies : Machine Learning Technology
+## Domain:  Transportation
 ## Problem Statement :
 The Air Pressure System (APS) is a critical component of a heavy-duty vehicle thatuses compressed air to force a piston to provide pressure to the brake pads, slowing
 the vehicle down. The benefits of using an APS instead of a hydraulic system are the
