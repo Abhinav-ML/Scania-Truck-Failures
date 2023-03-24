@@ -11,6 +11,9 @@ indicates that the failure was caused by something else.
 
 AIM : To reduce the cost due to unnecessary repairs. So it is required to minimize the false predictions.
 ---
-Step 1: created a python script to dump our data from local to mongodb
-Step 2: performed EDA, FeatureEngineering and Model building on JupyterNotebook and google colab
-step 3:
+## **Steps Involved**
+* Step 1: created a python script to dump our data from local to mongodb
+* Step 2: performed EDA, FeatureEngineering and Model building on JupyterNotebook and google colab
+    ### Perform the step2 in modular programing way:
+* step 3: 
+
