@@ -8,3 +8,9 @@ easy availability and long-term sustainability of natural air.
 This is a Binary Classification problem, in which the affirmative class indicates that the
 failure was caused by a certain component of the APS, while the negative class
 indicates that the failure was caused by something else.
+
+AIM : To reduce the cost due to unnecessary repairs. So it is required to minimize the false predictions.
+---
+Step 1: created a python script to dump our data from local to mongodb
+Step 2: performed EDA, FeatureEngineering and Model building on JupyterNotebook and google colab
+step 3:
