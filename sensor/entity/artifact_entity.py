@@ -1,0 +1,3 @@
+class DataIngestionConfig:
+    pass
+class DataValidationConfig:...

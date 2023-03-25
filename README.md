@@ -15,5 +15,6 @@ AIM : To reduce the cost due to unnecessary repairs. So it is required to minimi
 * Step 1: created a python script to dump our data from local to mongodb
 * Step 2: performed EDA, FeatureEngineering and Model building on JupyterNotebook and google colab
     ### Perform the step2 in modular programing way:
-* step 3: 
+* step 3: created setup.py file for the distribution purpose of my source code
+* step 4: 
 
