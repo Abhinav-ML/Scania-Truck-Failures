@@ -16,5 +16,7 @@ AIM : To reduce the cost due to unnecessary repairs. So it is required to minimi
 * Step 2: performed EDA, FeatureEngineering and Model building on JupyterNotebook and google colab
     ### Perform the step2 in modular programing way:
 * step 3: created setup.py file for the distribution purpose of my source code
-* step 4: 
+* step 4: created project file/folder structure
+* step 5: implemented logger concepts
+* step 6: 
 
