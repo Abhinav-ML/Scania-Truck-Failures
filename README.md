@@ -14,7 +14,7 @@ AIM : To reduce the cost due to unnecessary repairs. So it is required to minimi
 ## **Steps Involved**
 * Step 1: created a python script to dump our data from local to mongodb
 * Step 2: performed EDA, FeatureEngineering and Model building on JupyterNotebook and google colab
-    ### Perform the step2 in modular programing way:
+### Now, perform the step2 in modular programing way:
 * step 3: created setup.py file for the distribution purpose of my source code
 * step 4: created project file/folder structure
 * step 5: implemented logger concepts
@@ -27,4 +27,8 @@ AIM : To reduce the cost due to unnecessary repairs. So it is required to minimi
 * step 12: model_pusher done
 * step 13: created training pipeline
 * step 14: created batch_prediction pipeline
+## with the above following steps ML development part done. next we will move into deployment part on AWS cloud.
+---
+# Deployment Part
+
 
