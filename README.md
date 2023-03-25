@@ -18,6 +18,13 @@ AIM : To reduce the cost due to unnecessary repairs. So it is required to minimi
 * step 3: created setup.py file for the distribution purpose of my source code
 * step 4: created project file/folder structure
 * step 5: implemented logger concepts
-* step 6: implemente Custom exception concepts
-* step 7
+* step 6: implemented Custom exception concepts
+* step 7: data_ingestion done
+* step 8: data_validation done
+* step 9: data_transformation done
+* step 10: model_training done
+* step 11: model_evaluation done
+* step 12: model_pusher done
+* step 13: created training pipeline
+* step 14: created batch_prediction pipeline
 
