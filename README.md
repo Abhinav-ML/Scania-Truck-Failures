@@ -74,4 +74,4 @@ AIM : To reduce the cost due to unnecessary repairs. So it is required to minimi
    6. S3 bucket name =
    7. MongoDB url :
     
-
+That' it
