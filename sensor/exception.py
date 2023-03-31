@@ -18,3 +18,6 @@ class SensorException(Exception):
 
     def __str__(self):
         return self.error_message
+
+
+
